@@ -1,0 +1,8 @@
+
+# to tell git not to track files so they wont be committed to Github
+
+```
+node_modules
+.DS_Store
+.env
+```
